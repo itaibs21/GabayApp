@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "859800733533",
+    "firebase_url": "https://yemenitenewapp.firebaseio.com",
+    "project_id": "yemenitenewapp",
+    "storage_bucket": "yemenitenewapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859800733533:android:84cc4cc9bd1293b1",
+        "android_client_info": {
+          "package_name": "com.example.itai.gabayapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859800733533-8rml0o8mi81t52psc42ch3v8h7itkad4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfiEyeU7q8j8mjz8EUHjEDWNNcghMgyGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
