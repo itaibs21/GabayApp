@@ -3,8 +3,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.example.itai.gabayapp.Mevarchim">
     <item
-        android:id="@+id/action_settings"
+        android:id="@+id/action_add_prayer"
         android:orderInCategory="100"
-        android:title="@string/action_settings"
+        android:icon="@drawable/ic_action_name"
+        android:title="הוסף מברך"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_edit_prayer"
+        android:orderInCategory="100"
+        android:title="ערוך מברך"
         app:showAsAction="never" />
+
 </menu>
